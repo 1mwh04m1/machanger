@@ -11,26 +11,22 @@ Automatically change your MAC address
 
 # Requirements
 
-[✓] Python2 
-
-[✓] Pylint 
-
-[✓] Net-tools
-
-[✓] Root
-
+    [✓] Python2 
+    [✓] Pylint 
+    [✓] Net-tools
+    [✓] Root
 
 # Installation 
 
-apt update
+    apt update
 
-sudo apt-get install pylint 
+    sudo apt-get install pylint 
 
-sudo apt-get install net-tools
+    sudo apt-get install net-tools
 
-git clone https://github.com/1mwh04m1/machanger.git
+    git clone https://github.com/1mwh04m1/machanger.git
 
-cd machanger
+    cd machanger
 
 # Help
 
