@@ -45,9 +45,3 @@ or
 Syntax: python2 machanger.py -i [interface] -m [new mac]
 
     python2 machanger.py -i eth0 -m 00:11:22:33:44:55
-
-
-
-
-
-
