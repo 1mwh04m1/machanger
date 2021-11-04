@@ -18,15 +18,16 @@ Automatically change your MAC address
 
 # Installation 
 
-    apt update
+apt update
+    
+sudo apt-get install pylint 
+   
+sudo apt-get install net-tools
+  
+git clone https://github.com/1mwh04m1/machanger.git
 
-    sudo apt-get install pylint 
-
-    sudo apt-get install net-tools
-
-    git clone https://github.com/1mwh04m1/machanger.git
-
-    cd machanger
+cd machanger
+    
 
 # Help
 
