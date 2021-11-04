@@ -31,17 +31,17 @@ cd machanger
 
 # Help
 
-    python2 machanger.py -h 
+    sudo python2 machanger.py -h 
 
 or
 
-    python2 machanger.py --help
+    sudo python2 machanger.py --help
 
 # Usage
 
-Syntax: python2 machanger.py -i [interface] -m [new mac]
+Syntax: sudo python2 machanger.py -i [interface] -m [new mac]
 
-    python2 machanger.py -i eth0 -m 00:11:22:33:44:55
+    sudo python2 machanger.py -i eth0 -m 00:11:22:33:44:55
     
 # Note
 
